@@ -1,7 +1,4 @@
 ### Hi there 👋
-<!--
-**Andikazidanef15/Andikazidanef15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🔭 My name is Andika Zidane Faturrahman
 ## 😄 You can call me Dika/Zidane 
 ## 🌱 Currently mathematics's undergraduate student at Bandung Institute of Technology (ITB)
